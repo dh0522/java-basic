@@ -27,7 +27,7 @@ public class ClassStart5 {
 			System.out.println( s.name+" "+ s.age +" "+ s.grade);
 		}
 
-		// 단축키 iter 
+		// 단축키 iter
 		for (Student s : students){
 			System.out.println( s.name+" "+ s.age +" "+ s.grade);
 
